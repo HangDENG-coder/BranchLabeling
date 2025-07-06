@@ -2,6 +2,8 @@
 
 This MATLAB GUI enables manual annotation of branch and terminal points in 3D neuron images, particularly for low-resolution reconstructions (e.g., mouse brain). It supports image browsing, annotation, and saving results for downstream training or correction.
 
+![GUI interface](BranchLabeling/label/BP_GUI.png)
+
 ## 📦 Requirements
 
 - MATLAB (tested with versions supporting `.fig` GUIs)
